@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a self-taught Front-End Developer (ReactJS)<br>📪 Find me on LinkedIn
+🔭 I am a Frontend Developer with over 10 years of experience building scalable, user-focused web applications using React.js, Next.js, and modern web technologies. I specialize in writing clean, efficient code, collaborating in agile environments, and delivering seamless, responsive user experiences. Passionate about continuous learning and innovation, I thrive on solving complex challenges and creating intuitive digital products.<br>📪 Find me on LinkedIn
 
 
 ## 🌐 Socials:
